@@ -81,7 +81,8 @@ I am currently at EMNLP 2024. Feel free to contact me.
 
 ## 📫 Contact Information
 - **Email**: [shilin.qu@monash.edu](mailto:shilin.qu@monash.edu)  
-- **LinkedIn**: [https://www.linkedin.com/in/shilin-qu-a08bb215a/](https://www.linkedin.com/in/shilin-qu-a08bb215a/) <img src="linkedin.png" alt="[alt text]" width="200px">  
+- **LinkedIn**: [https://www.linkedin.com/in/shilin-qu-a08bb215a/](https://www.linkedin.com/in/shilin-qu-a08bb215a/)  
+<img src="linkedin.png" alt="[alt text]" width="200px">  
 - **WeChat**: Scan the QR code to add me   
 <img src="Wechat.JPG" alt="[alt text]" width="160px">
 
